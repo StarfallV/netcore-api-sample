@@ -30,4 +30,4 @@ Into this response
 	["", "", "Automatic", "Rp. 370,000,000"]
 ];
 
-Using the GET method.
+Using GET method.
