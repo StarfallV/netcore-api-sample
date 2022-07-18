@@ -16,7 +16,7 @@ Converting this object:
 	["VW", "Golf", "Automatic", "Rp. 370,000,000"]
 ];
 
-Into this response
+Into this response:
 [
 	["Ford", "Fiesta", "Manual", "Rp. 120,000,000"],
 	["", "", "", "Rp. 134,000,000"],
